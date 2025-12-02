@@ -1,3 +1,5 @@
+
+
 <div align="center">
 <h1 style="font-size: 2.5rem; font-weight: 800; color: #1e40af; text-shadow: 2px 2px 4px rgba(30, 64, 175, 0.4); margin-bottom: 0.5rem; letter-spacing: 0.05em;">
 🌟 GROUNDED AI RESEARCH ASSISTANT 🤖
@@ -58,6 +60,8 @@ Clone the repository:
 
 git clone [YOUR_REPO_URL]
 cd Grounded-AI-Assistant
+
+
 
 
 
