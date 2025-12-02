@@ -70,7 +70,7 @@ This is a pure client-side application. To run it locally:
 
 Clone the repository:
 
-git clone [YOUR_REPO_URL]
+git clone https://github.com/careed23/Grounded-Research-Assistant/
 cd Grounded-AI-Assistant
 
 
