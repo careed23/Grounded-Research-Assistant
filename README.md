@@ -6,15 +6,15 @@
 Production-Ready Generative AI with RAG Principles
 </p>
 
-<!-- SHIELDS -->
-<p style="margin-top: 1rem;">
-[![Built With HTML5](https://img.shields.io/badge/Built_With-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Built With JavaScript](https://img.shields.io/badge/Built_With-JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Styling Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Powered By Gemini API](https://img.shields.io/badge/Powered_By-Gemini_API-007FFF?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/models/gemini)
-[![Containerized with Docker](https://img.shields.io/badge/Deployment-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-</p>
+<!-- SHIELDS: Note the Markdown links are now directly inside the center-aligned div -->
 
+<p style="margin-top: 1rem;">
+
+
+
+
+
+</p>
 
 </div>
 
@@ -60,6 +60,7 @@ git clone [YOUR_REPO_URL]
 cd Grounded-AI-Assistant
 
 
+
 Run Locally: Simply open index.html in your web browser. Since the application is running in a sandbox environment (like Canvas), the API key is handled automatically.
 
 <div style="background-color: #fee2e2; padding: 10px; border-left: 4px solid #ef4444; border-radius: 4px; margin-bottom: 15px;">
@@ -69,9 +70,6 @@ Run Locally: Simply open index.html in your web browser. Since the application i
 </div>
 
 The system follows a standard modular client-side pattern: The web browser client (Frontend) requests content from an Nginx Docker container. The client's JavaScript then calls the Gemini API endpoint, which uses the Google Search tool to augment the generation, returning streamed, grounded responses.
-
-
-
 
 <div style="background-color: #fef3c7; padding: 10px; border-left: 4px solid #f59e0b; border-radius: 4px; margin-bottom: 15px;">
 <h2 style="font-size: 1.5rem; font-weight: 700; color: #d97706; margin: 0;">
