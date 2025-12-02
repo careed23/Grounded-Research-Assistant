@@ -3,6 +3,18 @@
 <div align="center">
 <h1 style="font-size: 2.5rem; font-weight: 800; color: #1e40af; text-shadow: 2px 2px 4px rgba(30, 64, 175, 0.4); margin-bottom: 0.5rem; letter-spacing: 0.05em;">
 🌟 GROUNDED AI RESEARCH ASSISTANT 🤖
+
+  ## 🌟 GROUNDED AI RESEARCH ASSISTANT 🤖
+
+Production-Ready Generative AI with RAG Principles
+
+[![GitHub license](https://img.shields.io/github/license/google/grounded-ai-research-assistant?style=flat-square&color=blue)](LICENSE.md)
+[![Repo Size](https://img.shields.io/github/repo-size/google/grounded-ai-research-assistant?style=flat-square&color=teal)](https://github.com/google/grounded-ai-research-assistant)
+[![Technology - Gemini API](https://img.shields.io/badge/API-Gemini%202.5%20Flash-0B6ECF?style=flat-square&logo=google&logoColor=white)]()
+[![Technology - Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)]()
+[![Technology - ES6 JavaScript](https://img.shields.io/badge/Controller-ES6%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
+
+---
 </h1>
 <p style="font-size: 1.25rem; font-weight: 600; color: #3b82f6;">
 Production-Ready Generative AI with RAG Principles
