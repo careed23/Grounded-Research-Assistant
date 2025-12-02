@@ -61,6 +61,7 @@ cd Grounded-AI-Assistant
 
 
 
+
 Run Locally: Simply open index.html in your web browser. Since the application is running in a sandbox environment (like Canvas), the API key is handled automatically.
 
 <div style="background-color: #fee2e2; padding: 10px; border-left: 4px solid #ef4444; border-radius: 4px; margin-bottom: 15px;">
